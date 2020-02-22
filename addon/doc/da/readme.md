@@ -2,7 +2,7 @@
 
 * Forfatter: Rui Fontes <rui.fontes@tiflotecnia.com>
 * Download [stabil version][1]
-* Kompatibilitet: NVDA 2017.2 til 2019.1
+* Kompatibilitet: NVDA 2019.3 til 2019.3.1
 
 ## Brug ##
 Denne tilføjelse annoncerer antallet af ord, tegn, afsnit og linjer i den

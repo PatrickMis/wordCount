@@ -2,7 +2,7 @@
 
 * Tekijä: Rui Fontes <rui.fontes@tiflotecnia.com>
 * Lataa [vakaa versio][1]
-* Yhteensopivuus: NVDA 2017.2-2019.1
+* Yhteensopivuus: NVDA 2019.3-2019.3.1
 
 ## Käyttö ##
 Tämä lisäosa ilmoittaa valitun tekstin sanojen, merkkien, kappaleiden ja

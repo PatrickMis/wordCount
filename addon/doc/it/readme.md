@@ -2,7 +2,7 @@
 
 * Autore: Rui Fontes <rui.fontes@tiflotecnia.com>
 * Download [versione stabile][1]
-* Compatibilità: NVDA 2017.2 fino a 2019.1
+* Compatibilità: NVDA 2019.3 fino a 2019.3.1
 
 ## Utilizzo ##
 Questo componente aggiuntivo annuncia il numero di parole, caratteri,

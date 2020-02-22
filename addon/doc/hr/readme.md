@@ -2,7 +2,7 @@
 
 * Autor: Rui Fontes <rui.fontes@tiflotecnia.com>
 * Preuzmi [stabilnu verziju][1]
-* Kompatibilnost: NVDA 2017.2 do 2019.1
+* Kompatibilnost: NVDA 2019.3 do 2019.3.1
 
 ## Primjena ##
 Ovaj dodatak javlja broj riječi, znakova, odlomaka i redaka u odabranom

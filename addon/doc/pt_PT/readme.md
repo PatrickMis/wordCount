@@ -2,7 +2,7 @@
 
 * Autor: Rui Fontes <rui.fontes@tiflotecnia.com>
 * Baixar [Versão estável][1]
-* Compatibilidade: NVDA 2017.2 até 2019.1
+* Compatibilidade: NVDA 2019.3 até 2019.3.1
 
 ## Utilização: ##
 Este extra diz o número de palavras, caracteres, parágrafos e linhas do

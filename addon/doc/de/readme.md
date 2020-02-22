@@ -2,7 +2,7 @@
 
 * Autor: Rui Fontes <rui.fontes@tiflotecnia.com>
 * [stabile version herunterladen][1]
-* Kompatibilität: NVDA 2017.2 bis 2019.1
+* Kompatibilität: NVDA 2019.3 bis 2019.3.1
 
 ## Verwendung ##
 Diese Erweiterung gibt die Anzahl der Wörter, Zeichen, Absätze und Zeilen

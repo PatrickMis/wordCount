@@ -2,7 +2,7 @@
 
 * Autor: Rui Fontes <rui.fontes@tiflotecnia.com>
 * Descărcați [versiunea stabilă][1]
-* Compatibilitate: NVDA 2017.2 - 2019.1
+* Compatibilitate: NVDA 2019.3 - 2019.3.1
 
 ## Utilizare ##
 Acest supliment indică numărul de cuvinte, de caractere, de paragrafe și de

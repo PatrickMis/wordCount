@@ -2,7 +2,7 @@
 
 * Autor: Rui Fontes <rui.fontes@tiflotecnia.com>
 * Stiahnuť [Stabilnú verziu][1]
-* Funguje s NVDA 2017.2 to 2019.1
+* Funguje s NVDA 2019.3 to 2019.3.1
 
 ## Použitie ##
 Skratkou ctrl+shift+F12 môžete zistiť počet znakov, slov a odsekov vo

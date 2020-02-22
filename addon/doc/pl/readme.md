@@ -4,7 +4,7 @@
 ## Informacje ##
 * Autor: Rui Fontes <rui.fontes@tiflotecnia.com>
 * Pobierz [Wersja stabilna][1]
-* Zgodność z wersjami NVDA: NVDA 2017.2 do 2019.1
+* Zgodność z wersjami NVDA: NVDA 2019.3 do 2019.3.1
 
 ## Użycie ##
 Ten dodatek podaje liczbę słów, znaków, akapitów i linii zaznaczonego tekstu za pomocą komendy ctrl+shift+f12.

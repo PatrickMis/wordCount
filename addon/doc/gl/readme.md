@@ -2,7 +2,7 @@
 
 * Autor: Rui Fontes <rui.fontes@tiflotecnia.com>
 * Descargar [versión estable][1]
-* Compatibilidade: de NVDA 2017.2 a 2019.1
+* Compatibilidade: de NVDA 2019.3 a 2019.3.1
 
 ## Uso ##
 Este complemento anuncia o número de palabras, caracteres, parágrafos e
